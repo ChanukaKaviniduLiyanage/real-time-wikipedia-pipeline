@@ -30,7 +30,7 @@ The final output is a live dashboard built in Apache Superset that provides real
    * Docker Desktop installed and running.  
    * Python installed on your local machine.  
 2. **Clone the repository:**  
-   git clone \[https://github.com/YOUR\_USERNAME/wikipulse-project.git\](https://github.com/YOUR\_USERNAME/wikipulse-project.git)  
+   git clone https://github.com/ChanukaKaviniduLiyanage/real-time-wikipedia-pipeline  
    cd wikipulse-project
 
 3. **Install Python dependencies for the producer:**  
@@ -42,7 +42,7 @@ The final output is a live dashboard built in Apache Superset that provides real
 
 5. **Access the Dashboard:**  
    * Wait a few minutes for all services to initialize.  
-   * Open your browser and navigate to http://localhost:8088.  
+   * Open your browser and navigate to http://localhost:8888.  
    * Log in with username admin and password admin.  
    * The Wikipedia Edit Monitor dashboard should be available.
 
