@@ -6,7 +6,7 @@ WikiPulse is a complete, end-to-end data engineering pipeline that ingests, proc
 
 The final output is a live dashboard built in Apache Superset that provides real-time insights into global Wikipedia edit activity.
 
-**(ACTION: Take a screenshot of your complete Superset dashboard and save it as dashboard.png in the root of your project folder. This will make the image appear here.)**
+![Superset Dashboard](dashboard.png)
 
 ### **The dashboard features three main charts:**
 
